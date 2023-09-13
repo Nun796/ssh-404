@@ -31,7 +31,7 @@ echo "
 <h4><font color='blue'>Telegram Channel >> ဏ
 </font></h4>
 
-<h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
+<h3><font color='red'>
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "saim" --shell=/bin/false -M
 echo "saim" | chpasswd
